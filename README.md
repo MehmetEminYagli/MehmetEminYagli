@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehmetEminYagli
 - 👀 I’m interested in mobil developer and web developer
-- 🌱 I’m currently learning java and kotling
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail: m.eminyagli@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mehmet-emin-ya%C4%9Fli-677658208/
