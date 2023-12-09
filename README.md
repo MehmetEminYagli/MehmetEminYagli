@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail: m.eminyagli@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mehmet-emin-ya%C4%9Fli-677658208/
+- LinkedIn: https://www.linkedin.com/in/mehmet-emin-yagli-677658208/
 
 <!---
 MehmetEminYagli/MehmetEminYagli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
